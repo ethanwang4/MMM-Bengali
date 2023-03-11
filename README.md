@@ -1,6 +1,6 @@
 # MMM-Bengali
 
-This module is for [MagicMirror2](https://docs.magicmirror.builders/).. It cyclically displays Bengali words, Bengali pronunciations, and English translations. 
+This module is designed for [MagicMirror2](https://docs.magicmirror.builders/). It cyclically displays Bengali words, Bengali pronunciations, and English translations. 
 
 ## Screenshot
 
@@ -40,6 +40,7 @@ The following properties can be configured:
 
 Code adapted from
 https://github.com/tderflinger/MMM-Hanzi
+
 https://github.com/daniel-windsor/MMM-eswordoftheday/blob/main/MMM-eswordoftheday.js
 
 Translations derived from 
