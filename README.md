@@ -39,9 +39,11 @@ The following properties can be configured:
 ## References
 
 Code adapted from
+
 https://github.com/tderflinger/MMM-Hanzi
 
 https://github.com/daniel-windsor/MMM-eswordoftheday/blob/main/MMM-eswordoftheday.js
 
 Translations derived from 
+
 https://github.com/MinhasKamal/BengaliDictionary 
